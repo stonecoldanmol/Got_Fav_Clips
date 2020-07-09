@@ -1,6 +1,6 @@
 # got_fav_clips
 
-A new Flutter application.
+A new Flutter application made for GOT lovers out there contains famous quotes from each episodes.
 
 ## Getting Started
 
